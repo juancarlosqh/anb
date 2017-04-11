@@ -1,0 +1,44 @@
+[
+	{
+		"icono" : "G",
+		"nombre" : "Gerencia Regional Cochabamba",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-16:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "I",
+		"nombre" : "Administración Aduana Interior Cochabamba",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-16:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "P",
+		"nombre" : "Aduana Postal Cochabamba",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:00-12:00 14:30-18:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "A",
+		"nombre" : "Administración Aduana Aeropuerto Cochabamba",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-16:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "T",
+		"nombre" : "Administración Aduana Aeropuerto Cochabamba",
+		"lugar" : "Terminal de Vuelos",
+		"ordinario" : "lunes - viernes 7:00-15:00 15:00-23:00",
+		"extraordinario" : "sábado, domingo y feriados 7:00-15:00 15:00-23:00"
+	},
+	{
+		"icono" : "I",
+		"nombre" : "Administración Aduana Interior Sucre",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-19:30",
+		"extraordinario" : "sábado 8:30-16:30"
+	}
+]

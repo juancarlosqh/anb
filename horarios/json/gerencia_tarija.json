@@ -1,0 +1,65 @@
+[
+	{
+		"icono" : "G",
+		"nombre" : "Gerencia Regional Tarija",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-12:30 14:30-18:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "A",
+		"nombre" : "Administración Aduana Interior",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-12:30 14:30-18:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "Z",
+		"nombre" : "Administración Aduanera Zona Franca Comercial Yacuiba",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-16:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "A",
+		"nombre" : "Administración Aduana Yacuiba",
+		"lugar" : "Atención Oficinas Campo Pajoso",
+		"ordinario" : "lunes - viernes 8:30-16:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "A",
+		"nombre" : "Administración Aduana Yacuiba",
+		"lugar" : "Atención Integrada",
+		"ordinario" : "lunes - viernes 0:00-23:59",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "A",
+		"nombre" : "Administración Aduana Bermejo",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-12:30 15:00-19:00",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "A",
+		"nombre" : "Administración Aduana Bermejo",
+		"lugar" : "Atención Integrada",
+		"ordinario" : "lunes - viernes 0:00-23:59",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "F",
+		"nombre" : "Administración de Aduana Frontera Cañada Oruro",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-12:30 14:30-18:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "F",
+		"nombre" : "Administración de Aduana Frontera Cañada Oruro",
+		"lugar" : "Control HITO BR 94",
+		"ordinario" : "lunes - viernes 0:00-23:59",
+		"extraordinario" : ""
+	}
+]

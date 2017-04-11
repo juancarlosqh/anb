@@ -1,0 +1,16 @@
+[
+	{
+		"icono" : "A",
+		"nombre" : "Agencia Aduana Exterior Arica - Chile",
+		"lugar" : "Oficinas - Ciudad",
+		"ordinario" : "lunes - viernes 8:30-16:30",
+		"extraordinario" : "sábado 8:30-16:30"
+	},
+	{
+		"icono" : "P",
+		"nombre" : "Agencia Aduana Exterior Arica - Chile",
+		"lugar" : "Puerto",
+		"ordinario" : "lunes - viernes 0:00-23:59",
+		"extraordinario" : "sábado, domingo y feriados 0:00-23:59"
+	}
+]

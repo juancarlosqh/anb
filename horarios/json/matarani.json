@@ -1,0 +1,16 @@
+[
+	{
+		"icono" : "P",
+		"nombre" : "Agencia Aduana Exterior Matarani - Mollendo - Perú",
+		"lugar" : "Perto - Matarani",
+		"ordinario" : "lunes - viernes 8:30-16:30",
+		"extraordinario" : "sábado 8:30-16:30"
+	},
+	{
+		"icono" : "A",
+		"nombre" : "Agencia Aduana Exterior Matarani - Mollendo - Perú",
+		"lugar" : "Oficinas - Mollendo",
+		"ordinario" : "lunes - viernes 7:30-19:30",
+		"extraordinario" : ""
+	}
+]

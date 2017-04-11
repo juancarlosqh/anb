@@ -9,18 +9,18 @@
     </head>
     <body>
         <ul class="collection with-header" id="listado">
-            <li class="collection-header"><h4>Gerencia Regional Tarija</h4></li>
+            <li class="collection-header"><h4>Agencia Aduana Exterior Matarani-Mollendo</h4></li>
         </ul>            
         <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
         <script type="text/javascript" src="/js/materialize.min.js"></script>
         <script type="text/javascript">
-          $.getJSON("http://127.0.0.1:8887/horarios/json/gerencia_tarija.json", function(json){
+          $.getJSON("http://127.0.0.1:8887/horarios/json/matarani.json", function(json){
             var obj = json;
             for(var i in obj){
               var res = '<li class="collection-item avatar">'+
                             '<img src="/img/'+obj[i].icono+'.png" alt="" class="circle">'+
                             '<b>'+obj[i].nombre+'</b><br>'+
-                            '<p>'+obj[i].lugar+'<br>'+obj[i].ordinario+'</p>'+
+                            '<p>'+obj[i].lugar+'<br>'+obj[i].ordinario+'<br><b>Extraordinario: </b>'+obj[i].extraordinario+'</p>'+
                           '</li>';
               $("#listado").append(res);
             } 

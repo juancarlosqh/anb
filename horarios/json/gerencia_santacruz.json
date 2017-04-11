@@ -1,0 +1,100 @@
+[
+	{
+		"icono" : "G",
+		"nombre" : "Gerencia Regional Santa Cruz",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-16:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "I",
+		"nombre" : "Administración Aduana Interior Santa Cruz",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-16:30",
+		"extraordinario" : "sábado 8:30-16:30"
+	},
+	{
+		"icono" : "A",
+		"nombre" : "Administración Aduana Aeropuerto Viru Viru",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 9:00-17:00",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "T",
+		"nombre" : "Administración Aduana Aeropuerto Viru Viru",
+		"lugar" : "Terminal de vuelos",
+		"ordinario" : "lunes - viernes 0:00-23:59",
+		"extraordinario" : "sábado, domingo y feriados 0:00 23:59"
+	},
+	{
+		"icono" : "Z",
+		"nombre" : "Adm. Aduana Zona Franca Comercial - Industrial Santa Cruz",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-16:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "Z",
+		"nombre" : "Administración Aduana Zona Franca Puerto Suarez (ZOFRAMAQ)",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-16:30",
+		"extraordinario" : "sábado 8:30-16:30"
+	},
+	{
+		"icono" : "A",
+		"nombre" : "Adm. Aduana Puerto Suarez (Arroyo Concepción)",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-12:30 14:30-18:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "F",
+		"nombre" : "Adm. Aduana Puerto Suarez (Arroyo Concepción)",
+		"lugar" : "Control Paso de Frontera",
+		"ordinario" : "lunes - viernes 8:30-12:30 14:30-18:30",
+		"extraordinario" : "sábado 8:30-16:30"
+	},
+	{
+		"icono" : "A",
+		"nombre" : "Administración Aduana San Matías",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-12:30 14:30-18:30",
+		"extraordinario" : "sábado, domingo 8:30-16:30"
+	},
+	{
+		"icono" : "A",
+		"nombre" : "Administración Aduana San Vicente",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-12:30 14:30-18:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "F",
+		"nombre" : "Administración Aduana San Vicente",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-12:30 14:30-18:30",
+		"extraordinario" : "sábado, domingo 0:00-23:59"
+	},
+	{
+		"icono" : "Z",
+		"nombre" : "Adm. Aduana Zona Franca Comercial - Industrial Winner",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-16:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "P",
+		"nombre" : "Aduana Postal Santa Cruz",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 9:00-17:00",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "C",
+		"nombre" : "Administración Aduana Aeropuerto Viru Viru",
+		"lugar" : "Sección Carga",
+		"ordinario" : "lunes - viernes 9:00-17:00",
+		"extraordinario" : ""
+	}
+]

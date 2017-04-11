@@ -1,0 +1,51 @@
+[
+	{
+		"icono" : "G",
+		"nombre" : "Gerencia Regional Oruro",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-12:30 14:30-18:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "I",
+		"nombre" : "Administración Aduana Interior Oruro",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-16:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "Z",
+		"nombre" : "Administración Aduana Zona Franca Comercial Oruro",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 9:00-17:00",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "A",
+		"nombre" : "Administración Aduana Pisiga",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:00-20:00",
+		"extraordinario" : "sábado, domingo y feriados 8:00-20:00"
+	},
+	{
+		"icono" : "F",
+		"nombre" : "Administración Aduana Pisiga",
+		"lugar" : "Control Paso de Frontera",
+		"ordinario" : "lunes - viernes 8:00-20:00",
+		"extraordinario" : "sábado, domingo y feriados 8:00-20:00"
+	},
+	{
+		"icono" : "A",
+		"nombre" : "Administración Aduana Tambo Quemado",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 7:30-19:30",
+		"extraordinario" : "sábado, domingo 7:30-19:30"
+	},
+	{
+		"icono" : "F",
+		"nombre" : "Administración Aduana Tambo Quemado",
+		"lugar" : "Control Paso de Frontera",
+		"ordinario" : "lunes - viernes 7:30-19:30",
+		"extraordinario" : "sábado, domingo 7:30-19:30"
+	}
+]

@@ -1,0 +1,149 @@
+[
+	{
+		"icono" : "G",
+		"nombre" : "Gerencia Regional La Paz",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-16:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "I",
+		"nombre" : "Administración Aduana Interior La Paz",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-16:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "P",
+		"nombre" : "Aduana Postal La Paz",
+		"lugar" : "Atención Oficinas Correo",
+		"ordinario" : "lunes - viernes 9:00-17:00",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "A",
+		"nombre" : "Administración Aduana Aeropuerto El Alto",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-16:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "T",
+		"nombre" : "Administración Aduana Aeropuerto El Alto",
+		"lugar" : "Terminal de Vuelos",
+		"ordinario" : "lunes - viernes 0:00-23:59",
+		"extraordinario" : "sábado, domingo y feriados 0:00-23:59"
+	},
+	{
+		"icono" : "Z",
+		"nombre" : "Administración Aduana Zona Franca Industrial Comercial El Alto",
+		"lugar" : "Zona Franca Comercial",
+		"ordinario" : "lunes - viernes 8:30-16:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "Z",
+		"nombre" : "Administración Aduana Zona Franca Industrial Comercial El Alto",
+		"lugar" : "Zona Franca Industrial",
+		"ordinario" : "lunes - viernes 8:30-16:30",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "A",
+		"nombre" : "Administración Aduana Desaguadero",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 9:00-12:30 14:30-19:00",
+		"extraordinario" : ""
+	},
+	{
+		"icono" : "F",
+		"nombre" : "Administración Aduana Desaguadero",
+		"lugar" : "Control Paso Puente Nuevo",
+		"ordinario" : "lunes - viernes 9:00-21:00",
+		"extraordinario" : "sábado, domingo y feriados 9:00-21:00"
+	},
+	{
+		"icono" : "F",
+		"nombre" : "Administración Aduana Desaguadero",
+		"lugar" : "Control Paso Puente Viejo",
+		"ordinario" : "lunes - viernes 9:00-21:00",
+		"extraordinario" : "sábado, domingo y feriados 9:00-21:00"
+	},
+	{
+		"icono" : "A",
+		"nombre" : "Administración Aduana Charaña",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:00-13:00 14:30-20:00",
+		"extraordinario" : "sábado, domingo y feriados 8:00-13:00 14:30-20:00"
+	},
+	{
+		"icono" : "F",
+		"nombre" : "Administración Aduana Charaña",
+		"lugar" : "Control Paso de Frontera",
+		"ordinario" : "lunes - viernes 8:00-13:00 14:30-20:00",
+		"extraordinario" : "sábado, domingo y feriados 8:00-13:00 14:30-20:00"
+	},
+	{
+		"icono" : "A",
+		"nombre" : "Administración Aduana Kasani",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:00-13:00 14:00-20:00",
+		"extraordinario" : "sábado, domingo y feriados 8:00-13:00 14:00-20:00"
+	},
+	{
+		"icono" : "F",
+		"nombre" : "Administración Aduana Kasani",
+		"lugar" : "Control Paso de Frontera",
+		"ordinario" : "lunes - viernes 8:00-13:00 14:00-20:00",
+		"extraordinario" : "sábado, domingo y feriados 8:00-13:00 14:00-20:00"
+	},
+	{
+		"icono" : "A",
+		"nombre" : "Administración Aduana Puerto Acosta",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:00-20:00",
+		"extraordinario" : "sábado, domingo y feriados 8:00-20:00"
+	},
+	{
+		"icono" : "F",
+		"nombre" : "Administración Aduana Puerto Acosta",
+		"lugar" : "Control Paso de Frontera",
+		"ordinario" : "lunes - viernes 9:00-13:00 14:30-21:00",
+		"extraordinario" : "sábado, domingo y feriados 9:00-13:00 14:30-21:00"
+	},
+	{
+		"icono" : "A",
+		"nombre" : "Administración Aduana Guayaramerín",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:30-12:30 15:00-19:00",
+		"extraordinario" : "sábado 8:30-12:30 15:00-19:00"
+	},
+	{
+		"icono" : "F",
+		"nombre" : "Administración Aduana Guayaramerín",
+		"lugar" : "Control Paso de Frontera",
+		"ordinario" : "lunes - viernes 8:30-12:30 15:00-19:00",
+		"extraordinario" : "sábado, domingo y feriados 8:30-12:30 15:00-19:00"
+	},
+	{
+		"icono" : "Z",
+		"nombre" : "Administración Aduana Zona Franca Comercial Cobija",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 8:00-12:30 15:00-18:30",
+		"extraordinario" : "sábado 8:30-12:30"
+	},
+	{
+		"icono" : "F",
+		"nombre" : "Administración Aduana Zona Franca Comercial Cobija",
+		"lugar" : "Control Paso de Frontera",
+		"ordinario" : "lunes - viernes 8:00-12:30 15:00-18:30",
+		"extraordinario" : "sábado 8:30-12:30"
+	},
+	{
+		"icono" : "A",
+		"nombre" : "Administración Aduana Zona Franca Industrial Patacamaya",
+		"lugar" : "Atención Oficinas",
+		"ordinario" : "lunes - viernes 9:00-17:00",
+		"extraordinario" : ""
+	}
+]
